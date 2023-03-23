@@ -5,5 +5,5 @@ uncertainty of a given model. To address this problem, we propose to learn the d
 the QRF provide a partition of the features space, allowing for more efficient computations and improved adaptiveness of the PI through groupwise conformalization. We show that our approach enjoys an assumption-free finite sample marginal and training-conditional coverage, and under suitable assumptions, it also ensures conditional coverage. Our methods work for any nonconformity score and are available as a Python package. We
 provide experimental results on simulated and real-world data that showcase significant improvements compared to existing methods.
 
-[PDF](https://drive.google.com/file/d/1xqKN7uKued0L8m2UEr4L2CSrUymMzufw/view?usp=sharing) - [CODE](https://github.com/salimamoukou/ACPI)
+[PDF](https://arxiv.org/pdf/2303.12695.pdf) - [CODE](https://github.com/salimamoukou/ACPI)
 
